@@ -13,3 +13,11 @@ This collection of projects are OOP(object oriented programming)based, practiced
 
 
 
+2. Kanye Quote API usage project: use kanye API to generate random quote, small pratice on API usage.
+
+
+![Kanye quote API project](https://user-images.githubusercontent.com/52498280/105449007-2ab7d180-5cc3-11eb-84c4-7d522bc593a4.gif)
+
+
+
+3
