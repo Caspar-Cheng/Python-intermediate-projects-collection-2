@@ -2,7 +2,7 @@
 Intermediate Level 
 
 
-This collection of projects are OOP(object oriented programming)based, practiced on making higher quality and reusable codes. Mainly used: -- list and dictionary comprehension; -- Tkinter to build GUI(Graphical User Interface); -- SMTP(simple mail transfer protocol) and datetime module in Python;
+This collection of projects are OOP(object oriented programming)based, practiced on making higher quality and reusable codes. Mainly used: -- list and dictionary comprehension; -- Tkinter to build GUI(Graphical User Interface); -- SMTP(simple mail transfer protocol) and datetime module in Python; -- usage of API(application programming interface);
 
 
 
