@@ -39,7 +39,7 @@ def is_night():
         return True
 
 
-# check whether ISS is above in the sky every 60 secs
+# check whether ISS is above in the sky every 60 secs, if so, send email notification
 while True:
     time.sleep(60)
     if check_iss_nearby() and is_night():
