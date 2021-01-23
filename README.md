@@ -24,4 +24,11 @@ This collection of projects are OOP(object oriented programming)based, practiced
 
 
 
-4. 
+4. Trivia Quizzer: use trivia API to randomly generate 15 questions in computer categories, the animation will show whether the user's answer is rignt or wrong. The final results will be shown at the last.
+
+
+![Trivia Quizzer ](https://user-images.githubusercontent.com/52498280/105478904-88faa980-5cef-11eb-802a-1877c0cc489e.gif)
+
+
+
+
