@@ -7,10 +7,10 @@ proxy_client = TwilioHttpClient()
 proxy_client.session.proxies = {"https": os.environ["https_proxy"]}
 
 # Use OpenWeather One Call API to get Brisbane's weather data, only get hourly weather data back
-api_key = "f68979ea3cce96a498a40e82404499eb"
+api_key = "Your_open_weather_API"
 OWM_Endpoint = "https://api.openweathermap.org/data/2.5/onecall?"
-account_sid = os.environ["ACc31aafe14bdf9cc6d433c1bca974de1e"]
-auth_token = os.environ["6ad19687581b6890560c5968884549fb"]
+account_sid = os.environ["Twilio account sid"]
+auth_token = os.environ["Twilio auth token"]
 
 parameters = {
     "lat": -27.469770,
