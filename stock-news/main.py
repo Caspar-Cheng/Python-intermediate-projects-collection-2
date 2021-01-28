@@ -31,7 +31,8 @@ yesterday_closing_price = float(data_list[0]["4. close"])
 day_before_closing_price = float(data_list[1]["4. close"])
 difference = abs(yesterday_closing_price - day_before_closing_price)
 percentage = round((difference / yesterday_closing_price) * 100)
-if percentage > 1:
+
+if percentage > 3:
     news_parameters = {
         "qInTitle": COMPANY_NAME,
         "apikey": news_api
