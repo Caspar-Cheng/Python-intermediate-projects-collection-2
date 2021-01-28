@@ -34,3 +34,7 @@ This collection of projects are OOP(object oriented programming)based, practiced
 5. Rian Alert: this project has been runed inside pythonanywhere, it will remind me to bring an umbrella once the Brisbane will rainy via sending me a message through the setting of Twilio SMS to myself. It's an amzing handy project!
 
 
+
+6. Stock news: test on Tesla's stock, used three API as Stock Price API, News API, Twilio API. If the stock closing price is increase or decrease more than 3% compare between yesterday's and the day before yesterday's, send three articles from News API with title of "Tesla Inc" as phone message. Hard to deploy as the result will show on personal phone.
+
+
