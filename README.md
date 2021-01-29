@@ -38,3 +38,11 @@ This collection of projects are OOP(object oriented programming)based, practiced
 6. Stock news: test on Tesla's stock, used three API as Stock Price API, News API, Twilio API. If the stock closing price is increase or decrease more than 3% compare between yesterday's and the day before yesterday's, send three articles from News API with title of "Tesla Inc" as phone message. Hard to deploy as the result will show on personal phone.
 
 
+
+7. Habit Tracker: use Pixela API to create habit tracking graph, looks exactly the same as GitHub contribution graph, also it's a great opportunity to practice using API and POST method of requests module in Python.
+
+
+![Capture](https://user-images.githubusercontent.com/52498280/106260484-30398c80-626c-11eb-9076-a4a42a7bd2bd.PNG)
+
+
+
