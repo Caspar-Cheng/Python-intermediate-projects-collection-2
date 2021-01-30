@@ -46,3 +46,7 @@ This collection of projects are OOP(object oriented programming)based, practiced
 
 
 
+8. Exercise Tracking: using Nutritionix API exercise language and Sheety API to connect exercise record with Google sheet, and record via user's input of answering particular question. A small practice on API usage.
+
+
+
